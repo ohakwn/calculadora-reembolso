@@ -18,4 +18,4 @@ Esse projeto foi criado para ajudar pequenas empresas e profissionais a calcular
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/reembolso-js.git
+git clone https://github.com/ohakwn/calculadora-reembolso.git
