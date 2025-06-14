@@ -13,9 +13,3 @@ Esse projeto foi criado para ajudar pequenas empresas e profissionais a calcular
 - Saída de dados com `console.log()` e `alert()`
 - Condicionais (`if`, `else`)
 - Funções declaradas
-
-## 🚀 Como usar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/ohakwn/calculadora-reembolso.git
